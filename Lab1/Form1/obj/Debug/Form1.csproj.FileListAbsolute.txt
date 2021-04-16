@@ -1,0 +1,19 @@
+C:\Users\death\source\repos\Lab1\Form1\bin\Debug\Form1.exe.config
+C:\Users\death\source\repos\Lab1\Form1\bin\Debug\Form1.exe
+C:\Users\death\source\repos\Lab1\Form1\bin\Debug\Form1.pdb
+C:\Users\death\source\repos\Lab1\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\death\source\repos\Lab1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\death\source\repos\Lab1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\death\source\repos\Lab1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\death\source\repos\Lab1\Form1\obj\Debug\Form1.exe
+C:\Users\death\source\repos\Lab1\Form1\obj\Debug\Form1.pdb
+C:\Users\death\source\repos\Lab1\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+C:\Users\ketak\OneDrive\Рабочий стол\study\системное программирование\Lab1\Form1\bin\Debug\Form1.exe.config
+C:\Users\ketak\OneDrive\Рабочий стол\study\системное программирование\Lab1\Form1\bin\Debug\Form1.exe
+C:\Users\ketak\OneDrive\Рабочий стол\study\системное программирование\Lab1\Form1\bin\Debug\Form1.pdb
+C:\Users\ketak\OneDrive\Рабочий стол\study\системное программирование\Lab1\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\ketak\OneDrive\Рабочий стол\study\системное программирование\Lab1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\ketak\OneDrive\Рабочий стол\study\системное программирование\Lab1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\ketak\OneDrive\Рабочий стол\study\системное программирование\Lab1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\ketak\OneDrive\Рабочий стол\study\системное программирование\Lab1\Form1\obj\Debug\Form1.exe
+C:\Users\ketak\OneDrive\Рабочий стол\study\системное программирование\Lab1\Form1\obj\Debug\Form1.pdb
